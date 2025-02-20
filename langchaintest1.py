@@ -49,7 +49,7 @@ llm = ChatGoogleGenerativeAI(
     max_tokens=None,
     timeout=None,
     max_retries=2,
-    api_key="AIzaSyA5cBPIyHwJ7dfIgIo2eOJf5XwJVoIYde0"  # Provide your Google API key
+    api_key=""  # Provide your Google API key
 )
 
 # Define tools for AI agent
