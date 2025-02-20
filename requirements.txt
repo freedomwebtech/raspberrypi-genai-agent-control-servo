@@ -1,0 +1,3 @@
+adafruit-circuitpython-servokit
+langchain
+langchain_google_genai
