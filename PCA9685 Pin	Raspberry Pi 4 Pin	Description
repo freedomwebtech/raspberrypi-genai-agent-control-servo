@@ -1,0 +1,7 @@
+
+PCA9685 Pin	Raspberry Pi 4 Pin	Description
+VCC	3.3V (Pin 1)	Power for logic level (3.3V)
+GND	GND (Pin 6, 9, 14, etc.)	Ground
+SCL	GPIO 3 (Pin 5)	I2C Clock
+SDA	GPIO 2 (Pin 3)	I2C Data
+V+	5V (Pin 2 or 4)	Power for servos (Optional: Can use external 5-6V)
