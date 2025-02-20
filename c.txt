@@ -1,1 +1,11 @@
 sudo rm /usr/lib/python3.11/EXTERNALLY-MANAGED
+
+
+
+###################after this run this commands in terminal################
+sudo raspi-config
+it will open {Raspberry Pi Software Configuration Tool (raspi-config)}
+then select (3 Interface Options) hit enter 
+then select (I5 I2C) hit enter
+then select (yes) hit enter
+and then finsh and reboot raspberry pi 4
