@@ -63,7 +63,7 @@ llm = ChatGoogleGenerativeAI(
     max_tokens=None,
     timeout=None,
     max_retries=2,
-    api_key="AIzaSyCY9Pxd_tftUWtn8f6zwhpcYd6T7Fdmsag"  # Provide your Google API key
+    api_key=""  # Provide your Google API key
 )
 
 # Initialize AI Agent with Servo Tool
